@@ -50,5 +50,8 @@ public class TipoFuncoes {
         Letra2 = Letra2.trim();
         System.out.println("a".equals(Letra2));
 
+        //equalsIgnoreCase é usado para comparação ignorando letras maiusculas e minusculas
+        System.out.println("a".equalsIgnoreCase(Letra2));
+
     }
 }
