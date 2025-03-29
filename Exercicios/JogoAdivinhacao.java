@@ -21,6 +21,14 @@ public class JogoAdivinhacao {
                     System.out.println("PARABENS! VOCÊ ACERTOU O NUMERO DO SORTEIO!");
                     break;
                 }
+                else {
+                    if (input < sorteio) {
+                        System.out.printf("%d é menor que o numero sorteado!\n", input);
+                    }
+                    else {
+                        System.out.printf("%d é maior que o numero sorteado!\n", input);
+                    }
+                }
             }
 
         }
