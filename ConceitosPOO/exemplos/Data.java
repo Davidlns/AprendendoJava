@@ -1,4 +1,4 @@
-package ConceitosPOO;
+package ConceitosPOO.exemplos;
 
 public class Data {
 

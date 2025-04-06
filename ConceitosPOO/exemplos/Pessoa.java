@@ -1,4 +1,4 @@
-package ConceitosPOO;
+package ConceitosPOO.exemplos;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package ConceitosPOO;
+package ConceitosPOO.exemplos;
 
 public class dataTeste {
     public static void main(String[] args) {
