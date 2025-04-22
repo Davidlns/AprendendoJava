@@ -4,7 +4,7 @@ package TratamentoException;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Principal {
+public class PrincipalEx1 {
     //Atributos
     private static Scanner entrada;
 
